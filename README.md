@@ -20,8 +20,8 @@ make -j4
 
 ## 配准结果展示
 
-![1](D:\Wattman_Test\The_1st\img\1.png)
+![1](https://github.com/Comp1exBoy/Wattman_Test/tree/main/The_1st/img/1.png)
 
-![2](D:\Wattman_Test\The_1st\img\2.png)
+![2](https://github.com/Comp1exBoy/Wattman_Test/tree/main/The_1st/img/2.png)
 
-![3](D:\Wattman_Test\The_1st\img\3.png)
+![3](https://github.com/Comp1exBoy/Wattman_Test/tree/main/The_1st/img/3.png)
